@@ -1,0 +1,1 @@
+Visualisations of data from Python, using mathplotlib, seaborn, Numpy, Pandas, etc. Starting 16 November 2022, at Codeup data science Noether cohort.
